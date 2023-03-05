@@ -1,0 +1,173 @@
+body {
+    margin: 0;
+    background: #CDE7ED;
+}
+.heading1{
+    position: absolute;
+width: 449px;
+height: 80px;
+top: 56px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 40px;
+text-align: center;
+background: #FFFFFF;
+color: #0B2B5B;
+}
+#navbar{
+position: relative;
+height: 196px;
+top: 0px;
+display: flex;
+justify-content: center;
+background: #FFFFFF;
+}
+.iki{
+height: 32px;
+margin-top: 20px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+color: #0B2B5B;
+}
+.uc{
+height: 32px;
+margin-bottom: 20px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 160% */
+text-align: center;
+color: #0B2B5B;
+}
+.box{
+    width: 782px;
+    height: 380px;
+    margin: auto;        
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(11, 43, 91, 0.1);
+    border-radius: 4px;
+}
+.box-header{       
+width: 782px;
+height: 64px;
+left: 249px;
+top: 334px;
+background: #FFFFFF;
+border-radius: 4px 4px 0px 0px;
+display: flex;
+}
+.b1{        
+width: 40px;
+background: #25A575;
+border-radius: 3px;
+}
+.b11{
+height: 100%;
+font-weight: 500;
+font-size: 26px;
+display: flex;
+align-items: center;
+justify-content: center;
+color: #FFFFFF;
+}
+.new{
+padding-left: 20px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+display: flex;
+align-items: center;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: #3A719B;
+background-color: white;
+}
+.box-body{
+    width: 295px;
+    height: 16px;
+    left: 24px;
+    top: 0px;        
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;      
+    display: flex;
+    align-items: center;        
+    color: #3A719B;
+}
+.line{
+  position: absolute;
+left: 0%;
+right: 0%;
+top: 100%;
+bottom: 0%;
+border: 1px solid #3A719B;
+}
+.disflex {
+  display: flex;
+}
+.form_inp {
+  padding: 60px;
+}
+.disflex .input-container, .full-input-container {
+  width: 50%;
+  border-bottom: 1.5px solid steelblue;
+  margin: 0 30px 30px 0;
+}
+.disflex .input-container input, .full-input-container input {
+  border: 0;
+}
+.full-input-container {
+  width: 100% !important;
+  margin: 0 0 30px 0 !important;
+}
+.btn {   
+    width: 782px;
+    height: 48px;
+    left: 249px;
+    top: 790px;
+    color: #FFFFFF;
+    background: #0B2B5B;
+    border-radius: 34.5px;
+}
+.patient{
+    position: absolute;
+    width: 186px;
+    height: 24px;
+    left: 800px;   
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;   
+    color: #0B2B5B;
+    background-color:#CDE7ED ;
+    border: none;
+}
+.iconn{ 
+width: 30px;
+height: 30px;
+text-align: right;
+top: 354px;
+display: flex;
+color: black;
+padding-left: 550px;
+font-weight: 400;
+font-size: 25px;
+line-height: 16px;
+color: #000000;
+}
+
+
+div#form { background: white;}
